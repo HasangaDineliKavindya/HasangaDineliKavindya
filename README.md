@@ -8,8 +8,8 @@
 ---
 
 ### Projects
-- [Project 1: Project Name](Link to Project Repository)
-- [Project 2: Project Name](Link to Project Repository)
+- SD1_python_CW
+- Civic-Connect complaint management system 
 
 <!-- Feel free to add more projects as you work on them! -->
 
