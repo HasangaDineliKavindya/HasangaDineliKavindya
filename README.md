@@ -9,7 +9,12 @@
 
 ### Projects
 - SD1_python_CW
-- Civic-Connect complaint management system 
+- Civic-Connect complaint management system
+- java cw
+- oop cw
+- book store
+- fashion store
+- calculater 
 
 <!-- Feel free to add more projects as you work on them! -->
 
