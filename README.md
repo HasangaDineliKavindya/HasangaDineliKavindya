@@ -12,9 +12,9 @@
 - Civic-Connect complaint management system
 - java cw
 - oop cw
-- book store
-- fashion store
-- calculater 
+- book shop
+- sport wear
+- 
 
 <!-- Feel free to add more projects as you work on them! -->
 
