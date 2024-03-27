@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning Java, OOP, Python, React, Node.js, HTML, CSS, JS
 - 💼 I’m working on web development projects
 - 📫 How to reach me: hasangakavindaya@gmail.com 
-- ⚡ Fun fact:
 
----
 
 ### Projects
 - SD1_python_CW
@@ -14,9 +12,11 @@
 - oop cw
 - book shop
 - sport wear
+- NLP use the create a summrisation
+- Image classification 
 - 
 
-<!-- Feel free to add more projects as you work on them! -->
+
 
 
 <!---
