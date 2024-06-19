@@ -43,8 +43,10 @@
 ![Hasanga Dineli Kavindya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasangaDineliKavindya&show_icons=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasangaDineliKavindya&layout=compact&theme=radical)
 
+## Connect with me 
 
-
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](#)
+[![github](https://skillicons.dev/icons?i=github)](#)
 
 <!---
 HasangaDineliKavindya/HasangaDineliKavindya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
