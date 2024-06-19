@@ -45,8 +45,8 @@
 
 ## Connect with me 
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](#)
-[![github](https://skillicons.dev/icons?i=github)](#)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](#https://www.linkedin.com/in/hasanga-dineli-kavindya-142896236/)
+[![github](https://skillicons.dev/icons?i=github)](#https://github.com/HasangaDineliKavindya)
 
 <!---
 HasangaDineliKavindya/HasangaDineliKavindya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
