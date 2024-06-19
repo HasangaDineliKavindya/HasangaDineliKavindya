@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HasangaDineliKavindya
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning Java, OOP, Python, React, Node.js, HTML, CSS, JS
+- 🌱 I’m currently learning Angular js,php, react native
 - 💼 I’m working on web development projects
 - 📫 How to reach me: hasangakavindaya@gmail.com 
 
