@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning Angular js,php, react native
 - 💼 I’m working on web development projects
 - 📫 How to reach me: hasangakavindaya@gmail.com 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=HasangaDineliKavindya.profileviews)
+
+
+### Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=HasangaDineliKavindya)
 
 ### Projects
 - SD1_python_CW
