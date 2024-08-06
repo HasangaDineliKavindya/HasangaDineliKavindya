@@ -19,6 +19,7 @@
 - Image classification 
 - Weather web Appications
 - WomenHealthCare API
+- Wite Wine Partitioning Clustering 
 
 ## Technical Skills
 ### Languages
