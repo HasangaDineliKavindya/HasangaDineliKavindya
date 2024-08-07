@@ -44,6 +44,13 @@
 ![Simple Transformers](https://img.shields.io/badge/Simple_Transformers-0088CC?style=for-the-badge&logo=python&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 
+### Tools
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![Zoho](https://img.shields.io/badge/Zoho-C8202B?style=for-the-badge&logo=zoho&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
 ## GitHub Stats
 
 ![Hasanga Dineli Kavindya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasangaDineliKavindya&show_icons=true&theme=radical)
