@@ -72,11 +72,12 @@
 ---
 
 ## GitHub Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=HasangaDineliKavindya&theme=radical&hide_border=true)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=HasangaDineliKavindya&theme=radical&no-frame=true&title=Commits,Repositories,Stars)
 
-![Hasanga Dineli Kavindya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasangaDineliKavindya&show_icons=true&theme=radical)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasangaDineliKavindya&layout=compact&theme=radical)  
-
----
+![Hasanga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasangaDineliKavindya&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasangaDineliKavindya&layout=compact&theme=radical)
+----
 
 ## Connect with me  
 
