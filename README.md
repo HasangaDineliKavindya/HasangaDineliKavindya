@@ -35,7 +35,7 @@
   </tr>
 </table>
 
----
+<hr>
 
 <!-- Tech Stack Section -->
 <h2 align="center">🚀 My Tech Arsenal</h2>
@@ -63,7 +63,7 @@
   </p>
 </div>
 
----
+<hr>
 
 <!-- GitHub Stats & Activity -->
 <h2 align="center">📊 My GitHub Journey</h2>
@@ -99,7 +99,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=HasangaDineliKavindya&theme=tokyonight&no-frame=true&no-bg=true&title=Commits,Repositories,Stars,Followers&row=1&column=4&margin-w=15" alt="Trophies" width="49%">
 </div>
 
----
+<hr>
 
 <!-- Connect with Me Footer -->
 <h2 align="center">📫 Let's Connect!</h2>
@@ -110,11 +110,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hasanga-dineli-kavindya-142896236/" target="_blank">
+  <a href="https://www.linkedin.com/in/hasanga-dineli-kavindya-142896236/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
    
-  <a href="https://github.com/HasangaDineliKavindya" target="_blank">
+  <a href="https://github.com/HasangaDineliKavindya" target="blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
    
