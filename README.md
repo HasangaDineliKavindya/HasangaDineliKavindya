@@ -13,7 +13,11 @@ That's it! Everything else is perfectly set up for you.
 
 <!-- Custom Banner -->
 <div align="center">
-  <img src="https://i.imgur.com/gxtEVoX.png" alt="Hasanga Dineli Kavindya - Fullstack Developer Banner"/>
+  <!-- 
+    වැදගත්: මේ link එක වෙනුවට, ඔයා upload කරපු image එකේ අලුත් link එක මෙතනට දාන්න. 
+    IMPORTANT: Replace this link with the new link from your uploaded image. 
+  -->
+  <img src="YOUR_NEW_IMAGE_LINK_HERE" alt="Hasanga Dineli Kavindya - Fullstack Developer Banner"/>
 </div>
 
 <br>
