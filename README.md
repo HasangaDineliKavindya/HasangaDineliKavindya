@@ -12,6 +12,8 @@ To make it perfect, you need to do ONE thing:
 That's it! The rest is ready to go.
 -->
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HasangaDineliKavindya&repo=Civic-Connect-complaint-management-system&theme=github_dark&hide_border=true" alt="Featured Project" width="48%">
+
 <!-- HEADER -->
 <div align="center">
   <img src="https://i.imgur.com/u5y2kF8.png" alt="Header Banner" />
