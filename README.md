@@ -1,86 +1,137 @@
 <!-- 
-Hi Hasanga! Here's your new profile.
-To make it perfect, you need to do ONE thing:
+Hi Hasanga! This is the most polished version. 
+To make it perfect, you just need to check ONE thing.
 
-1. PIN YOUR BEST PROJECT:
-   - Go to your main GitHub profile page.
-   - Click "Customize your pins" on the right.
-   - Select your best project (like "Civic-Connect-complaint-management-system").
-   - In the code below, find the section "YOUR-REPO-NAME" and replace it with the exact name of the repository you pinned.
-   - For example: repo=Civic-Connect-complaint-management-system
+1.  **PIN YOUR BEST PROJECT:**
+    - Go to your main GitHub profile page and use the "Customize your pins" button to select your best repository.
+    - In the code below, find the "Featured Project" section.
+    - Replace `YOUR-REPO-NAME-HERE` with the EXACT name of the repository you pinned.
+    - For example: &repo=Civic-Connect-complaint-management-system
 
-That's it! The rest is ready to go.
+That's it! Everything else is perfectly set up for you.
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HasangaDineliKavindya&repo=Civic-Connect-complaint-management-system&theme=github_dark&hide_border=true" alt="Featured Project" width="48%">
-
-<!-- HEADER -->
+<!-- Custom Banner -->
 <div align="center">
-  <img src="https://i.imgur.com/u5y2kF8.png" alt="Header Banner" />
-  <h1>Hi! I'm Hasanga Kavindya.</h1>
-  <h3>Fullstack Developer</h3>
-  <p>Passionate about building scalable software solutions, solving complex problems, and creating efficient, user-centric applications.</p>
+  <img src="https://i.imgur.com/gxtEVoX.png" alt="Hasanga Dineli Kavindya - Fullstack Developer Banner"/>
 </div>
 
-<hr>
+<br>
 
-<!-- ABOUT ME & ANIMATION -->
+<!-- Introduction Section -->
 <table>
   <tr>
-    <td width="70%">
-      <h2>🚀 Hey there, I'm Hasanga!</h2>
-      <p>
-        I'm a Full-Stack Developer and Machine Learning enthusiast with a love for building innovative web and mobile solutions. My expertise lies in crafting robust backends and dynamic frontends to deliver seamless user experiences.
+    <td width="65%">
+      <h1 align="left">Hasanga Dineli Kavindya</h1>
+      <p align="left">
+        A passionate Fullstack Developer from Sri Lanka 🇱🇰 specializing in building scalable, efficient, and user-centric web and mobile applications. I thrive on turning complex problems into elegant software solutions.
       </p>
+      <div align="left">
+        <a href="https://www.linkedin.com/in/hasanga-dineli-kavindya-142896236/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+         
+        <a href="mailto:hasangakavindaya@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+        </a>
+      </div>
+      <br>
       <ul>
-        <li>🌱 I’m currently expanding my skills in <strong>Angular, PHP, and React Native</strong>.</li>
-        <li>💼 I’m focused on challenging <strong>web and mobile development projects</strong>.</li>
-        <li>💬 Ask me about <strong>Java, Python, JavaScript, and Fullstack Architecture</strong>.</li>
-        <li>📫 How to reach me: <strong>hasangakavindaya@gmail.com</strong>.</li>
-        <li>📄 Visit my <a href="https://www.linkedin.com/in/hasanga-dineli-kavindya-142896236/"><strong>LinkedIn profile</strong></a> for more details.</li>
+        <li>🌱 <strong>Currently Learning:</strong> Angular, PHP, React Native</li>
+        <li>💼 <strong>Working on:</strong> Web & Mobile Development Projects</li>
+        <li>💬 <strong>Ask me about:</strong> Fullstack Architecture, MERN Stack, Java, Python</li>
       </ul>
-      <img src="https://komarev.com/ghpvc/?username=HasangaDineliKavindya&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views"/>
     </td>
-    <td width="30%">
-      <img src="https://media.giphy.com/media/devrockofficial/l1J9A5Yx01tMoG4sE/giphy.gif" alt="Developer Animation" width="100%">
+    <td width="35%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="100%">
     </td>
   </tr>
 </table>
 
-<hr>
+---
 
-<!-- TECH STACK -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<!-- Tech Stack Section -->
+<h2 align="center">🚀 My Tech Arsenal</h2>
+
+<div align="center">
+  <h3>Frontend</h3>
+  <p>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,bootstrap" /></a>
+  </p>
+  <h3>Backend</h3>
+  <p>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,java,python,php,flask,cs" /></a>
+  </p>
+  <h3>Databases & Mobile</h3>
+  <p>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,firebase,react,javafx" /></a>
+  </p>
+  <h3>AI & Data Science</h3>
+  <p>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,keras,r" /></a>
+  </p>
+  <h3>Tools & Platforms</h3>
+  <p>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,docker,postman,figma,vscode,idea" /></a>
+  </p>
+</div>
+
+---
+
+<!-- GitHub Stats & Activity -->
+<h2 align="center">📊 My GitHub Journey</h2>
+
+<!-- Stats and Top Languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HasangaDineliKavindya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasangaDineliKavindya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%"/>
+</div>
+
+<br>
+
+<!-- Featured Project -->
+<div align="center">
+  <h3>🏆 Featured Project</h3>
+  <!-- IMPORTANT: Replace "YOUR-REPO-NAME-HERE" with your pinned repo's name! -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HasangaDineliKavindya&repo=YOUR-REPO-NAME-HERE&theme=tokyonight&hide_border=true" alt="Featured Project" width="65%">
+</div>
+
+<br>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <h3>📅 My Contribution Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasangaDineliKavindya&theme=tokyonight&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%"/>
+</div>
+
+<br>
+
+<!-- Streak and Trophies -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HasangaDineliKavindya&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%">
+  <img src="https://github-profile-trophy.vercel.app/?username=HasangaDineliKavindya&theme=tokyonight&no-frame=true&no-bg=true&title=Commits,Repositories,Stars,Followers&row=1&column=4&margin-w=15" alt="Trophies" width="49%">
+</div>
+
+---
+
+<!-- Connect with Me Footer -->
+<h2 align="center">📫 Let's Connect!</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,angular,nodejs,php,html,css,bootstrap,cs,r,flask,mysql,firebase,tensorflow,keras,git,docker,postman,figma,vscode,idea&perline=8" />
-  </a>
+  I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team.
+  <br>
+  Feel free to reach out to me!
 </p>
 
-<hr>
-
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<!-- Stats and Streak Cards -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasangaDineliKavindya&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Hasanga's GitHub Stats" width="48%">
-   
-  <img src="https://streak-stats.demolab.com?user=HasangaDineliKavindya&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="48%">
-</div>
-
-<br>
-
-<!-- Featured Project and Top Languages Cards -->
-<div align="center">
-  <!-- IMPORTANT: Replace "YOUR-REPO-NAME" with the name of a project you have pinned on your profile! -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HasangaDineliKavindya&repo=Civic-Connect-complaint-management-system&theme=github_dark&hide_border=true" alt="Featured Project" width="48%">
-   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasangaDineliKavindya&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="48%">
-</div>
-
-<br>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HasangaDineliKavindya&theme=darkhub&no-frame=true&no-bg=true&title=Commits,Repositories,Stars,Followers&row=1&column=4&margin-w=15" alt="Trophies">
+  <a href="https://www.linkedin.com/in/hasanga-dineli-kavindya-142896236/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+   
+  <a href="https://github.com/HasangaDineliKavindya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+   
+  <a href="mailto:hasangakavindaya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
