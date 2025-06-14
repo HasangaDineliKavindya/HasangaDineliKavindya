@@ -1,23 +1,6 @@
-<!-- 
-Hi Hasanga! This is the most polished version. 
-To make it perfect, you just need to check ONE thing.
-
-1.  **PIN YOUR BEST PROJECT:**
-    - Go to your main GitHub profile page and use the "Customize your pins" button to select your best repository.
-    - In the code below, find the "Featured Project" section.
-    - Replace `YOUR-REPO-NAME-HERE` with the EXACT name of the repository you pinned.
-    - For example: &repo=Civic-Connect-complaint-management-system
-
-That's it! Everything else is perfectly set up for you.
--->
-
-<!-- Custom Banner -->
+<!-- Custom Banner - Link is now fixed! -->
 <div align="center">
-  <!-- 
-    වැදගත්: මේ link එක වෙනුවට, ඔයා upload කරපු image එකේ අලුත් link එක මෙතනට දාන්න. 
-    IMPORTANT: Replace this link with the new link from your uploaded image. 
-  -->
-  <img src="YOUR_NEW_IMAGE_LINK_HERE" alt="Hasanga Dineli Kavindya - Fullstack Developer Banner"/>
+  <img src="https://user-images.githubusercontent.com/101157147/287702813-f903e11d-2396-4899-b13c-0e78c8119643.png" alt="Hasanga Dineli Kavindya - Fullstack Developer Banner"/>
 </div>
 
 <br>
@@ -93,11 +76,11 @@ That's it! Everything else is perfectly set up for you.
 
 <br>
 
-<!-- Featured Project -->
+<!-- Featured Project - I have pre-filled this for you. -->
 <div align="center">
   <h3>🏆 Featured Project</h3>
-  <!-- IMPORTANT: Replace "YOUR-REPO-NAME-HERE" with your pinned repo's name! -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HasangaDineliKavindya&repo=YOUR-REPO-NAME-HERE&theme=tokyonight&hide_border=true" alt="Featured Project" width="65%">
+  <!-- You can change the repo name here if you pin a different project -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HasangaDineliKavindya&repo=Civic-Connect-complaint-management-system&theme=tokyonight&hide_border=true" alt="Featured Project" width="65%">
 </div>
 
 <br>
