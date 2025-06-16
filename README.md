@@ -1,6 +1,6 @@
-<!-- Custom Banner - Link is now fixed! -->
+<!-- NOTE: Consider updating this banner image to reflect your new focus on Data Science! -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/101157147/287702813-f903e11d-2396-4899-b13c-0e78c8119643.png" alt="Hasanga Dineli Kavindya - Fullstack Developer Banner"/>
+  <img src="https://user-images.githubusercontent.com/101157147/287702813-f903e11d-2396-4899-b13c-0e78c8119643.png" alt="Hasanga Dineli Kavindya - Banner"/>
 </div>
 
 <br>
@@ -11,7 +11,7 @@
     <td width="65%">
       <h1 align="left">Hasanga Dineli Kavindya</h1>
       <p align="left">
-        A passionate Fullstack Developer from Sri Lanka 🇱🇰 specializing in building scalable, efficient, and user-centric web and mobile applications. I thrive on turning complex problems into elegant software solutions.
+        A passionate Data Scientist Intern from Sri Lanka 🇱🇰 with a keen interest in extracting meaningful insights from complex datasets. I enjoy leveraging machine learning and statistical analysis to build predictive models and drive data-informed decisions.
       </p>
       <div align="left">
         <a href="https://www.linkedin.com/in/hasanga-dineli-kavindya-142896236/" target="_blank">
@@ -24,9 +24,9 @@
       </div>
       <br>
       <ul>
-        <li>🌱 <strong>Currently Learning:</strong> Angular, PHP, React Native</li>
-        <li>💼 <strong>Working on:</strong> Web & Mobile Development Projects</li>
-        <li>💬 <strong>Ask me about:</strong> Fullstack Architecture, MERN Stack, Java, Python</li>
+        <li>🌱 <strong>Currently Learning:</strong> Advanced SQL, MLOps, and Deep Learning frameworks.</li>
+        <li>💼 <strong>Working on:</strong> Data Science & Machine Learning Projects</li>
+        <li>💬 <strong>Ask me about:</strong> Machine Learning, Data Analysis, Python (Pandas, Scikit-learn), TensorFlow</li>
       </ul>
     </td>
     <td width="35%" align="center">
@@ -38,28 +38,20 @@
 <hr>
 
 <!-- Tech Stack Section -->
-<h2 align="center">🚀 My Tech Arsenal</h2>
+<h2 align="center">🚀 My Data Science Toolkit</h2>
 
 <div align="center">
-  <h3>Frontend</h3>
+  <h3>Languages & Databases</h3>
   <p>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,bootstrap" /></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,r,java,mysql,postgres,mongodb" /></a>
   </p>
-  <h3>Backend</h3>
+  <h3>Data Science & Machine Learning</h3>
   <p>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,java,python,php,flask,cs" /></a>
-  </p>
-  <h3>Databases & Mobile</h3>
-  <p>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,firebase,react,javafx" /></a>
-  </p>
-  <h3>AI & Data Science</h3>
-  <p>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,keras,r" /></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,tensorflow,keras,pytorch,jupyter" /></a>
   </p>
   <h3>Tools & Platforms</h3>
   <p>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,docker,postman,figma,vscode,idea" /></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman" /></a>
   </p>
 </div>
 
@@ -76,10 +68,9 @@
 
 <br>
 
-<!-- Featured Project - I have pre-filled this for you. -->
+<!-- 🏆 Featured Project: Pin a data science project on your GitHub profile and update the 'repo=' value below! -->
 <div align="center">
   <h3>🏆 Featured Project</h3>
-  <!-- You can change the repo name here if you pin a different project -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HasangaDineliKavindya&repo=Civic-Connect-complaint-management-system&theme=tokyonight&hide_border=true" alt="Featured Project" width="65%">
 </div>
 
