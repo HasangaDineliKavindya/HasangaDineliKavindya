@@ -9,7 +9,7 @@
 
 <div align="center">
   <h1>Hasanga Dineli Kavindya</h1>
-  <p><strong>Data Scientist Intern from Sri Lanka 🇱🇰</strong></p>
+  <p><strong>Data Scientist Intern from  Orel Corp</strong></p>
   <p>
     A passionate data enthusiast with a keen interest in extracting meaningful insights from complex datasets. 
     <br />
