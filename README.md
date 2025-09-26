@@ -81,15 +81,7 @@
 
 <hr style="border:1px solid #eee; margin:30px 0;">
 
-<!-- ===================== Featured Project ===================== -->
-<div align="center">
-  <h3>🏆 Featured Project</h3>
-  <a href="https://github.com/HasangaDineliKavindya/Civic-Connect-complaint-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HasangaDineliKavindya&repo=Civic-Connect-complaint-management-system&theme=tokyonight&hide_border=true" width="80%" style="border-radius:10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
-  </a>
-</div>
 
-<hr style="border:1px solid #eee; margin:30px 0;">
 
 <!-- ===================== Contribution Graph ===================== -->
 <div align="center">
