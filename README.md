@@ -9,7 +9,7 @@
 
 <div align="center">
   <h1>Hasanga Dineli Kavindya</h1>
-  <p><strong>Data Scientist Intern from  Orel Corp</strong></p>
+  <p><strong>Data Scientist & Machine Learning Enthusiast</strong></p> <!-- Updated title based on your previous request -->
   <p>
     A passionate data enthusiast with a keen interest in extracting meaningful insights from complex datasets. 
     <br />
@@ -22,11 +22,11 @@
   <a href="https://www.linkedin.com/in/hasanga-dineli-kavindya-142896236/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-   
+   
   <a href="mailto:hasangakavindaya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-   
+   
   <a href="https://github.com/HasangaDineliKavindya" target="blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
@@ -122,11 +122,11 @@
   <a href="https://www.linkedin.com/in/hasanga-dineli-kavindya-142896236/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-   
+   
   <a href="https://github.com/HasangaDineliKavindya" target="blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-   
+   
   <a href="mailto:hasangakavindaya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
