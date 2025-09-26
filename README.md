@@ -3,7 +3,8 @@
   **ACTION NEEDED:** Consider creating a new banner image that reflects your passion for Data Science!
   You can use tools like Canva for free to create a great one.
 -->
-<div align="center"><img width="1024" height="1024" alt="Generated Image September 26, 2025 - 12_12PM" src="https://github.com/user-attachments/assets/4593cdd3-a837-4f3c-86aa-ea9be0a2f8ee" />
+
+<img width="915" height="282" alt="banner" src="https://github.com/user-attachments/assets/79d7e466-b56a-4e24-b320-f7780c2496a7" />
 
   
 
